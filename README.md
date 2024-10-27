@@ -1,11 +1,11 @@
-#Assignment
+#Assignment  
 "My Schedule"
 
-##Author
+##Author  
 Sarah Pasquale
 
-##Description
+##Description  
 Styled HTML table containing fictional class schedule data
 
-##Github Link
+##Github Link  
 https://github.com/WorldsBestEndUser/My-Schedule
