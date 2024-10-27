@@ -10,3 +10,67 @@
     ====================================
 */
 
+html {
+    background-image: linear-gradient(to right, #0B3040, #C0E6F5);
+}
+
+table {
+    border-image: linear-gradient(to right,#C0E6F5, #0B3040) 1;
+    border-width: 3px;
+    border-style: solid;
+    border-spacing: 0;
+    margin: 70px auto;
+    width: 75%;
+    text-align: center;
+}
+
+.col1 {
+    width: 10%;
+}
+
+.title, th, td {
+    border: 1px solid #A6A6A6;
+}
+
+th, td {
+    padding: 4px;
+    width: 18%;
+}
+
+.title {
+    background-color: #404040;
+    color: white;
+}
+
+th {
+    background-color: #D9D9D9;
+    color: black;
+}
+
+td {
+    background-color: #F2F2F2;
+}
+
+.web, .java, .calc, .phys {
+    color: white;
+}
+
+.web {
+    background-color: #782170;
+    border: 2px solid #51154A;
+}
+
+.java {
+    background-color: #0C769E;
+    border: 2px solid #074F69;
+}
+
+.calc {
+    background-color: #3C7D22;
+    border: 2px solid #275317;
+}
+
+.phys {
+    background-color: #BE5014;
+    border: 2px solid #7E350E;
+}
